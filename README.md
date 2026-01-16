@@ -123,7 +123,7 @@ npm run dev
 👨‍💻 Author
 
 **Ansh Patel**
-M.Sc. IT – VNSGU
+M.Sc. IT 
 
 ---
 
